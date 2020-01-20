@@ -1,6 +1,6 @@
 LeetCode Solution
 ========
-My LeetCode Solutions: for my new job in 2020
+My LeetCode Solutions: for my programming skills in 2020
  
 | # | Title | Solution | Difficulty | Tags | Status | 
 |:----:| :-----------------------------------------------: | :--------------------------------: | :--: | :--: | :----: | 
