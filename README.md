@@ -9,6 +9,7 @@ My LeetCode Solutions: Become a better CSer
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java](./solution/637.Average-of-Levels-in-Binary-Tree.md), C++, Python | Medium | Tree, BFS | Solved |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Java](./solution/654.Maximum-Binary-Tree.md), C++, Python | Medium | Tree | Solved |
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Java](./solution/701.Insert-into-a-Binary-Search-Tree.md), C++, Python | Medium | Tree | Solved |
+| 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Java](./solution/743.Network-Delay-Time.md), C++, Python | Medium | Graph | Solved |
 | 814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)| [Java](./solution/814.Binary-Tree-Pruning.md), C++, Python | Medium | Tree, DFS | Solved |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)| [Java](./solution/1161.Maximum-Level-Sum-of-a-Binary-Tree.md), C++, Python | Medium | Tree, BFS | Solved |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)| [Java](./solution/1267.Count-Servers-that-Communicate.md), C++, Python | Medium | Array, Graph | Solved |
