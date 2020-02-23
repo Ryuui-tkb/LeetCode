@@ -14,4 +14,5 @@ My LeetCode Solutions: Become a better CSer
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)| [Java](./solution/1161.Maximum-Level-Sum-of-a-Binary-Tree.md), C++, Python | Medium | Tree, BFS | Solved |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)| [Java](./solution/1267.Count-Servers-that-Communicate.md), C++, Python | Medium | Array, Graph | Solved |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Java](./solution/1302.Deepest-Leaves-Sum.md), C++, Python | Medium | Tree, DFS, BFS | Solved |
+| 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Java](./solution/1306.Jump-Game-III.md), C++, Python | Medium | Graph, DFS, BFS | Solved |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [Java](./solution/1315.Sum-of-Nodes-with-Even-Valued-Grandparent.md), C++, Python | Medium | Tree, DFS, BFS | Solved |
