@@ -5,7 +5,7 @@ My LeetCode Solutions: Become a better CSer
 | # | Title | Solution | Difficulty | Tags | Status | 
 |----:| :-----------------------------------------------: | :--------------------------------: | :--: | :--: | :----: | 
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](./solution/2.Add-Two-Numbers.md), C++, Python | Medium | Linked List | Solved |
-| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Java](./solution/127.Word-Ladder.md), C++, Python | Medium | Graph, BFS | Attempting |
+| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Java](./solution/127.Word-Ladder.md), C++, Python | Medium | Graph, BFS | Solved |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java](./solution/637.Average-of-Levels-in-Binary-Tree.md), C++, Python | Medium | Tree, BFS | Solved |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Java](./solution/654.Maximum-Binary-Tree.md), C++, Python | Medium | Tree | Solved |
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Java](./solution/701.Insert-into-a-Binary-Search-Tree.md), C++, Python | Medium | Tree | Solved |
