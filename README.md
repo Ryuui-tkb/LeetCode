@@ -6,6 +6,7 @@ My LeetCode Solutions: Become a better CSer
 |----:| :-----------------------------------------------: | :--------------------------------: | :--: | :--: | :----: | 
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](./solution/2.Add-Two-Numbers.md), C++, Python | Medium | Linked List | Solved |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Java](./solution/127.Word-Ladder.md), C++, Python | Medium | Graph, BFS | Solved |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](./solution/150.Evaluate-Reverse-Polish-Notation.md), C++, Python | Medium | Stack | Solved |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Java](./solution/207.Course-Schedule.md), C++, Python | Medium | Graph, BFS, DFS, Topological Sort | Solved |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Java](./solution/210.Course-Schedule-II.md), C++, Python | Medium | Graph, BFS, DFS, Topological Sort | Solved |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](./solution/215.Kth-Largest-Element-in-an-Array.md), C++, Python | Medium | Heap, Divide and Conquer | Solved |
