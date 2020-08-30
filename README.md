@@ -10,6 +10,7 @@ My LeetCode Solutions: Become a better CSer
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Java](./solution/207.Course-Schedule.md), C++, Python | Medium | Graph, BFS, DFS, Topological Sort | Solved |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Java](./solution/210.Course-Schedule-II.md), C++, Python | Medium | Graph, BFS, DFS, Topological Sort | Solved |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](./solution/215.Kth-Largest-Element-in-an-Array.md), C++, Python | Medium | Heap, Divide and Conquer | Solved |
+| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Java](./solution/589.N-ary-Tree-Preorder-Traversal.md), C++, Python | Easy | Tree, DFS | Solved |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java](./solution/637.Average-of-Levels-in-Binary-Tree.md), C++, Python | Medium | Tree, BFS | Solved |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Java](./solution/654.Maximum-Binary-Tree.md), C++, Python | Medium | Tree | Solved |
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Java](./solution/701.Insert-into-a-Binary-Search-Tree.md), C++, Python | Medium | Tree | Solved |
