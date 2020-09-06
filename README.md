@@ -11,6 +11,7 @@ My LeetCode Solutions: Become a better CSer
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Java](./solution/207.Course-Schedule.md), C++, Python | Medium | Graph, BFS, DFS, Topological Sort | Solved |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Java](./solution/210.Course-Schedule-II.md), C++, Python | Medium | Graph, BFS, DFS, Topological Sort | Solved |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](./solution/215.Kth-Largest-Element-in-an-Array.md), C++, Python | Medium | Heap, Divide and Conquer | Solved |
+| 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Java](./solution/241.Different-Ways-to-Add-Parentheses.md), C++, Python | Medium | Map, Divide and Conquer | Solved |
 | 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Java](./solution/429.N-ary-Tree-Level-Order-Traversal.md), C++, Python | Medium | Tree, DFS, BFS | Solved |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Java](./solution/589.N-ary-Tree-Preorder-Traversal.md), C++, Python | Easy | Tree, DFS | Solved |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java](./solution/637.Average-of-Levels-in-Binary-Tree.md), C++, Python | Medium | Tree, BFS | Solved |
