@@ -1,10 +1,12 @@
 LeetCode Solution
 ========
 My LeetCode Solutions: Become a better CSer
+
+<font size=7>
  
 | # | Title | Solution | C | C++ | Java | Python | JS | Difficulty | Tags | Status | 
-|:--|:------|:--------:|:-:|:---:|:----:|:------:|:--:|:----------:|:----:|:------:|
-| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Solution](./solution/2.Add-Two-Numbers.md)|C|C++|[Java](./src/0002.Add-Two-Numbers/0002.Add-Two-Numbers.java)|Python|JS| Medium | Linked List | Solved |
+|--:|:------|:--------:|:-:|:---:|:----:|:------:|:--:|:----------:|:----:|:------:|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Solution](./solution/2.Add-Two-Numbers.md)|C|C++|[Java](./solution/2.Add-Two-Numbers.md#java)|Python|JS| Medium | Linked List | Solved |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Java](./solution/127.Word-Ladder.md), C++, Python | Medium | Graph, BFS | Solved |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](./solution/150.Evaluate-Reverse-Polish-Notation.md), C++, Python | Medium | Stack | Solved |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Java](./solution/199.Binary-Tree-Right-Side-View.md), C++, Python | Medium | Tree, BFS, DFS | Solved |
@@ -25,3 +27,4 @@ My LeetCode Solutions: Become a better CSer
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Java](./solution/1302.Deepest-Leaves-Sum.md), C++, Python | Medium | Tree, DFS, BFS | Solved |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Java](./solution/1306.Jump-Game-III.md), C++, Python | Medium | Graph, DFS, BFS | Solved |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [Java](./solution/1315.Sum-of-Nodes-with-Even-Valued-Grandparent.md), C++, Python | Medium | Tree, DFS, BFS | Solved |
+</font>
