@@ -1,14 +1,12 @@
 LeetCode Solution
 ========
 My LeetCode Solutions: Become a better CSer
-
-<font size=7>
  
 | # | Title | Solution | Java | C | C++ | Python | JS | Difficulty | Tags | Status | 
 |--:|:------|:--------:|:-:|:---:|:----:|:------:|:--:|:----------:|:----:|:------:|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](./solution/2.Add-Two-Numbers.md) | [Java](./solution/2.Add-Two-Numbers.md#java) | C | C++ | Python | JS | Medium | Linked List | Solved |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Solution](./solution/127.Word-Ladder.md) | [Java](./solution/127.Word-Ladder.md#java) | C | C++ | Python | JS | Medium | Graph, BFS | Solved |
-| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](./solution/150.Evaluate-Reverse-Polish-Notation.md), C++, Python | Medium | Stack | Solved |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) [Solution](./solution/150.Evaluate-Reverse-Polish-Notation.md) | [Java](./solution/150.Evaluate-Reverse-Polish-Notation.md#java) | C | C++ | Python | JS | Medium | Stack | Solved |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Java](./solution/199.Binary-Tree-Right-Side-View.md), C++, Python | Medium | Tree, BFS, DFS | Solved |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Java](./solution/207.Course-Schedule.md), C++, Python | Medium | Graph, BFS, DFS, Topological Sort | Solved |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Java](./solution/210.Course-Schedule-II.md), C++, Python | Medium | Graph, BFS, DFS, Topological Sort | Solved |
@@ -27,4 +25,3 @@ My LeetCode Solutions: Become a better CSer
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Java](./solution/1302.Deepest-Leaves-Sum.md), C++, Python | Medium | Tree, DFS, BFS | Solved |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Java](./solution/1306.Jump-Game-III.md), C++, Python | Medium | Graph, DFS, BFS | Solved |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [Java](./solution/1315.Sum-of-Nodes-with-Even-Valued-Grandparent.md), C++, Python | Medium | Tree, DFS, BFS | Solved |
-</font>
