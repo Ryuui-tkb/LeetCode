@@ -6,8 +6,8 @@ My LeetCode Solutions: Become a better CSer
  
 | # | Title | Solution | Java | C | C++ | Python | JS | Difficulty | Tags | Status | 
 |--:|:------|:--------:|:-:|:---:|:----:|:------:|:--:|:----------:|:----:|:------:|
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Solution](./solution/2.Add-Two-Numbers.md)|[Java](./solution/2.Add-Two-Numbers.md#java)|C|C++|Python|JS| Medium | Linked List | Solved |
-| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Java](./solution/127.Word-Ladder.md), C++, Python | Medium | Graph, BFS | Solved |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](./solution/2.Add-Two-Numbers.md) | [Java](./solution/2.Add-Two-Numbers.md#java) | C | C++ | Python | JS | Medium | Linked List | Solved |
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Solution](./solution/127.Word-Ladder.md)||[Java](./solution/127.Word-Ladder.md#java)|C|C++|Python|JS|Medium|Graph, BFS|Solved|
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](./solution/150.Evaluate-Reverse-Polish-Notation.md), C++, Python | Medium | Stack | Solved |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Java](./solution/199.Binary-Tree-Right-Side-View.md), C++, Python | Medium | Tree, BFS, DFS | Solved |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Java](./solution/207.Course-Schedule.md), C++, Python | Medium | Graph, BFS, DFS, Topological Sort | Solved |
