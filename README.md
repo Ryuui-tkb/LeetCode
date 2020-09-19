@@ -4,7 +4,7 @@ My LeetCode Solutions: Become a better CSer
  
 | # | Title | Solution | C | C++ | Java | Python | JS | Difficulty | Tags | Status | 
 |:--|:------|:--------:|:-:|:---:|:----:|:------:|:--:|:----------:|:----:|:------:|
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](./solution/2.Add-Two-Numbers.md), C++, Python | Medium | Linked List | Solved |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Solution](./solution/2.Add-Two-Numbers.md)|C|C++|[Java](./src/0002.Add-Two-Numbers/0002.Add-Two-Numbers.java)|Python|JS| Medium | Linked List | Solved |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Java](./solution/127.Word-Ladder.md), C++, Python | Medium | Graph, BFS | Solved |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](./solution/150.Evaluate-Reverse-Polish-Notation.md), C++, Python | Medium | Stack | Solved |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Java](./solution/199.Binary-Tree-Right-Side-View.md), C++, Python | Medium | Tree, BFS, DFS | Solved |
