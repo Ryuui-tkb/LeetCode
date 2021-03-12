@@ -5,6 +5,7 @@ My LeetCode Solutions: Become a better CSer
 | # | Title | Solution | Java | C | C++ | Python | Go | JS | Difficulty | Tags |
 |--:|:------|:--------:|:-:|:---:|:----:|:------:|:--:|:--:|:----------:|:----:|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](./solution/2.Add-Two-Numbers.md) | [Java](./solution/2.Add-Two-Numbers.md#java) | C | C++ | Python | Go | JS | Medium | Linked List |
+| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](./solution/28.Implement-strStr().md) | Java | C | [C++](./solution/28.Implement-strStr().md#c-1) | Python | [Go](./solution/28.Implement-strStr().md#go) | JS | Easy | String |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](./solution/34.Find-First-and-Last-Position-of-Element-in-Sorted-Array.md) | Java | C | [C++](./solution/34.Find-First-and-Last-Position-of-Element-in-Sorted-Array.md#cpp) | Python | Go | JS | Medium | Array, Binary Search |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](./solution/75.Sort-Colors.md) | Java | C | [C++](./solution/75.Sort-Colors.md#cpp) | Python | Go | JS | Medium | Array, Pointers |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Solution](./solution/127.Word-Ladder.md) | [Java](./solution/127.Word-Ladder.md#java) | C | C++ | Python | Go | JS | Medium | Graph, BFS |
