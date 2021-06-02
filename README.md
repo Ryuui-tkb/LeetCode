@@ -4,6 +4,7 @@ My LeetCode Solutions: Become a better CSer
  
 | # | Title | Solution | Java | C | C++ | Python | Go | JS | Difficulty | Tags |
 |--:|:------|:--------:|:-:|:---:|:----:|:------:|:--:|:--:|:----------:|:----:|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./solution/1.Two-Sum.md) | Java | C | [C++](./solution/1.Two-Sum.md#c-1) | Python | [Go](./solution/1.Two-Sum.md#go) | JS | Easy | Array, Hash Table |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](./solution/2.Add-Two-Numbers.md) | [Java](./solution/2.Add-Two-Numbers.md#java) | C | C++ | Python | Go | JS | Medium | Linked List |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/ongest-substring-without-repeating-characters/) | [Solution](./solution/3.Longest-Substring-Without-Repeating-Characters.md) | Java | C | [C++](./solution/3.Longest-Substring-Without-Repeating-Characters.md#c-1) | Python | [Go](./solution/3.Longest-Substring-Without-Repeating-Characters.md#go) | JS | Medium | String, Hash Table |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./solution/19.Remove-Nth-Node-From-End-of-List.md) | Java | C | [C++](./solution/19.Remove-Nth-Node-From-End-of-List.md#c-1) | Python | [Go](./solution/19.Remove-Nth-Node-From-End-of-List.md#go) | JS | Medium | Linked List |
